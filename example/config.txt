@@ -1,0 +1,2 @@
+Prefix plugins/GPUThrustVectorAdd/example
+Plugin GPUThrustVectorAdd inputfile parameters.txt outputfile vectoradd.thrust.raw
